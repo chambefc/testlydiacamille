@@ -1,0 +1,58 @@
+/* 
+  Localizable.strings
+  Test Lydia
+
+  Created by Camille Chambefort on 18/02/2024.
+
+*/
+
+/* Test */
+"TEST" = "Localized String";
+
+/* Miscellaneous Errors */
+"UNKNOWN_ERROR" = "Unknown error";
+
+/* Network Errors */
+"NETWORK_ERROR_UNAVAILABLE_SERVICE" = "The RandomUser service is unavailable at the moment, please retry later.";
+
+/* APIManager Errors */
+"APIMANAGER_INVALID_URL" = "Invalid URL.";
+"APIMANAGER_INVALID_DATA" = "The data received was not in the right format.";
+"CACHED_PICTURE_NOT_FOUND" = "This picture has not been found in cache.";
+
+/* Users List View Controller */
+"USERS_LIST_TITLE" = "Users";
+
+/* User Details */
+// Sections
+"USER_DETAILS_SECTION_REGISTRATION" = "Registration:";
+"USER_DETAILS_SECTION_ORIGINS" = "Origins:";
+"USER_DETAILS_SECTION_DETAILS" = "Details:";
+"USER_DETAILS_SECTION_ADDRESS" = "Address:";
+"USER_DETAILS_SECTION_TIMEZONE" = "Timezone:";
+"USER_DETAILS_SECTION_LOGIN" = "Login:";
+"USER_DETAILS_SECTION_ID" = "ID:";
+
+// Elements
+"USER_DETAILS_REGISTRATION" = "Registered on:";
+"USER_DETAILS_REGISTRATION_FORMAT" = "(%i years ago)";
+"USER_DETAILS_DATE_OF_BIRTH_AGE_FORMAT" = "(%i years old)";
+"USER_DETAILS_ORIGIN_GENDER" = "Gender:";
+"USER_DETAILS_ORIGIN_NATIONALITY" = "Nationality:";
+"USER_DETAILS_ORIGIN_DATE_OF_BIRTH" = "Date of birth:";
+"USER_DETAILS_DETAILS_EMAIL" = "Email:";
+"USER_DETAILS_DETAILS_PHONE" = "Phone:";
+"USER_DETAILS_DETAILS_CELL" = "Cellphone:";
+"USER_DETAILS_TIMEZONE_OFFSET" = "Offset:";
+"USER_DETAILS_TIMEZONE_DESCRIPTION" = "Description:";
+"USER_DETAILS_LOGIN_UUID" = "UUID:";
+"USER_DETAILS_LOGIN_USERNAME" = "Username:";
+"USER_DETAILS_LOGIN_PASSWORD" = "Password:";
+"USER_DETAILS_LOGIN_SALT" = "Salt:";
+"USER_DETAILS_LOGIN_MD5" = "md5:";
+"USER_DETAILS_LOGIN_SHA1" = "sha1:";
+"USER_DETAILS_LOGIN_SHA256" = "sha256:";
+"USER_DETAILS_ID_NAME" = "Name:";
+"USER_DETAILS_ID_VALUE" = "Value:";
+
+
